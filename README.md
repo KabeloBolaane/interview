@@ -40,6 +40,11 @@ Pull the github code repositary and compile using android version  SDK 30 and im
 
 A recycle view  is used to display the popular post from the NYT Timese Endpoint , an Adapter & Model to partially load data 
 
+# Pull to refresh
+
+This library is used to pull and sync popular news between app and the endpoint 
+
+
 
 
 
