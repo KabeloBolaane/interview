@@ -13,7 +13,7 @@ The github commit has overriden the readme file
 
 # Tools 
 - Android Studio 
--Intellij 
+-Intellij Idea
 
 # Libraries Used 
 
@@ -34,9 +34,11 @@ The github commit has overriden the readme file
 
 # How to use 
 
-Pull the github code repositary and compile using android version  SDK 30 
+Pull the github code repositary and compile using android version  SDK 30 and import to android Studio or Intellij Idea 
 
+# Model View Approach 
 
+A recycle view  is used to display the popular post from the NYT Timese Endpoint , an Adapter & Model to partially load data 
 
 
 
